@@ -15,6 +15,9 @@ Please keep that in mind before posting issues and PRs.
 ## Prerequisites
 
 Node.js and npm are essential to Angular development. 
+
+
+Change 
     
 <a href="https://docs.npmjs.com/getting-started/installing-node" target="_blank" title="Installing Node.js and updating npm">
 Get it now</a> if it's not already installed on your machine.
