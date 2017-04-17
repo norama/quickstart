@@ -13,6 +13,7 @@ We are unlikely to accept suggestions about how to grow this QuickStart into som
 Please keep that in mind before posting issues and PRs.
 
 ## Prerequisites
+vvvv
 
 Node.js and npm are essential to Angular development. 
     
